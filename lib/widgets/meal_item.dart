@@ -90,6 +90,5 @@ class MealItem extends StatelessWidget {
         ),
       ),
     );
-    ;
   }
 }
